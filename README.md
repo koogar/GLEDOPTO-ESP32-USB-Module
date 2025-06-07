@@ -1,0 +1,2 @@
+# GLEDOPTO ESP32 USB Module
+GLEDOPTO GL-C-0115WL ESP32 WLED Controller  USB Module Pinout
