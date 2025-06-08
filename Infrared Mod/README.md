@@ -25,6 +25,46 @@
 ![](https://github.com/koogar/GLEDOPTO-ESP32-USB-Module/blob/main/Infrared%20Mod/IR_Mod/images/KY-022.png)
 
 
+## WLED .json Apple v1 remote example
+```
+{
+  "desc": "Apple V1 Remote Presets",
+  "0x77E1A06D": {
+    "label": "play",
+    "cmnt": "Play/Pause",
+    "cmd": { "ps": "1~9~r" }
+  },
+  "0x77E1C06D": {
+    "label": "menu",
+    "cmnt": "On/Off",
+    "cmd": { "on": "t" }    
+  },
+  "0x77E1306D": {
+    "label": "down",
+    "cmnt": "Brightness -",
+    "cmd": { "bri": "~-8" }
+  },
+  "0x77E1506D": {
+    "label": "up",
+    "cmnt": "Brightness +",
+    "cmd": { "bri": "~+8" }
+  },
+  "0x77E1906D": {
+    "label": "left",
+    "cmnt": "Effect -",
+    "cmd": { "seg": { "fx": "~-" } }
+  },
+  "0x77E1606D": {
+    "label": "right",
+    "cmnt": "Effect +",
+    "cmd": { "seg": { "fx": "~+" } }
+  }
+
+}
+
+```
+
+
 
 
 
