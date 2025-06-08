@@ -25,7 +25,7 @@
 ![](https://github.com/koogar/GLEDOPTO-ESP32-USB-Module/blob/main/Infrared%20Mod/IR_Mod/images/KY-022.png)
 
 
-## WLED .json Apple v1 remote example
+## WLED_Apple-v1-A1156_IR.json example
 ```
 {
   "desc": "Apple V1 Remote Presets",
