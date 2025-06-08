@@ -13,5 +13,7 @@ This should be helpful for any internal modifications—like adding an infrared 
 #ESP32-WROOM-32E N4 module
 ![](https://github.com/koogar/GLEDOPTO-ESP32-USB-Module/blob/main/images/ESP32-WROOM-32E%20N4%20module%20(Medium).jpg)
 
-GPIO Mod Header and InfraRed Remote Mod
+
+
+#GPIO Mod Header and InfraRed Remote Mod
 ![](https://github.com/koogar/GLEDOPTO-ESP32-USB-Module/blob/main/Infrared%20Mod/IR_Mod/images/TML_GLEDOPTO_GPIO_IR_MOD%20(7).jpg)
