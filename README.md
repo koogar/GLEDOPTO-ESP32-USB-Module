@@ -17,3 +17,8 @@ This should be helpful for any internal modifications—like adding an infrared 
 
 #### GPIO Mod Header and InfraRed Remote Mod
 ![](https://github.com/koogar/GLEDOPTO-ESP32-USB-Module/blob/main/Infrared%20Mod/IR_Mod/images/TML_GLEDOPTO_GPIO_IR_MOD%20(7).jpg)
+
+
+
+#### QR Code for to connect to the WLED AP to configure WiFi
+![](https://github.com/koogar/GLEDOPTO-ESP32-USB-Module-GPIO-MOD/blob/main/images/WLED-QR-Connect-WB.png)
